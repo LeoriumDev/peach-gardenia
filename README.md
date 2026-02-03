@@ -43,7 +43,7 @@ git clone https://github.com/nhcarrigan-spring-2026-cohort/peach-gardenia.git
 cd peach-gardenia
 ```
 
-> Note: To contribute, fork this repository, create a feature branch in your fork, push your changes, merge into your fork’s main branch, then open a pull request to this repository for review.
+> Note: To contribute, fork this repository and keep your fork’s `main` branch in sync with the upstream `main`. Create a feature branch in your fork, commit and push your changes to that branch, then open a pull request from your feature branch to this repository’s `main` branch for review.
 
 ### Frontend
 The frontend lives in `client/`.
